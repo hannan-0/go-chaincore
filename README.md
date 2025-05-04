@@ -58,7 +58,9 @@ go-chaincore/
 
 ### Prerequisites
 Go 1.21+  
+
 Git  
+
 Unix-based system (macOS/Linux/WSL recommended)
 
 ### Build & Run
@@ -91,6 +93,7 @@ This runs all integration tests in main_test.go, covering AMF, CAP, ZKP, BFT, st
 
 ## 📘 Documentation
 For full architecture, theory, and benchmarks, see: docs/report.pdf  
+
 📘 [Download Report (DOCX)](docs/report.docx)
 
 
@@ -104,7 +107,9 @@ For full architecture, theory, and benchmarks, see: docs/report.pdf
 
 ## 👨‍🔬 Author
 Muhammad Hannan Nadeem  
+
 Course: CS4049 – Blockchain and Cryptocurrency  
+
 Institution: National University of computer and Emerging Sciences - FAST-NUCES  
 
 
