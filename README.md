@@ -30,7 +30,7 @@ A high-performance blockchain prototype developed in Go as part of **CS4049: Blo
 
 ## 📁 Project Structure
 
-
+```bash
 go-chaincore/
 ├── amf/              # Adaptive Merkle Forest and rebalancing logic
 ├── blockchain/       # Core blockchain data structures and execution
@@ -43,7 +43,7 @@ go-chaincore/
 ├── main.go           # Unified CLI for feature execution
 ├── main_test.go      # Integration test suite
 └── README.md         # This file
-
+```
 ### 🔄 How It Works (Simplified Flow)
 
 User submits a transaction via CLI
