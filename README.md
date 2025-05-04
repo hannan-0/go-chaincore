@@ -57,8 +57,8 @@ go-chaincore/
 ## 🧪 Running the System
 
 ### Prerequisites
-Go 1.21+
-Git
+Go 1.21+  
+Git  
 Unix-based system (macOS/Linux/WSL recommended)
 
 ### Build & Run
@@ -90,7 +90,7 @@ go test -v
 This runs all integration tests in main_test.go, covering AMF, CAP, ZKP, BFT, state, and consensus logic.
 
 ## 📘 Documentation
-For full architecture, theory, and benchmarks, see: docs/report.pdf
+For full architecture, theory, and benchmarks, see: docs/report.pdf  
 📘 [Download Report (DOCX)](docs/report.docx)
 
 
@@ -103,9 +103,9 @@ For full architecture, theory, and benchmarks, see: docs/report.pdf
 | Conflict Detection      | `O(n)`     |
 
 ## 👨‍🔬 Author
-Muhammad Hannan Nadeem
-Course: CS4049 – Blockchain and Cryptocurrency
-Institution: National University of computer and Emerging Sciences - FAST-NUCES
+Muhammad Hannan Nadeem  
+Course: CS4049 – Blockchain and Cryptocurrency  
+Institution: National University of computer and Emerging Sciences - FAST-NUCES  
 
 
 
