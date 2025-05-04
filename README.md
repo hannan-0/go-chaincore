@@ -46,13 +46,13 @@ go-chaincore/
 ```
 ### 🔄 How It Works (Simplified Flow)
 
-User submits a transaction via CLI
-AMF module routes it to the best-fit shard
-CAP module checks for consistency under network conditions
-ZKP verifies any proofs or privacy constraints
-Consensus layer confirms and builds a new block
-BFT layer ensures fault tolerance and sync
-State is pruned and archived using compression strategies
+1. User submits a transaction via CLI
+2. AMF module routes it to the best-fit shard
+3. CAP module checks for consistency under network conditions
+4. ZKP verifies any proofs or privacy constraints
+5. Consensus layer confirms and builds a new block
+6. BFT layer ensures fault tolerance and sync
+7. State is pruned and archived using compression strategies
 
 ## 🧪 Running the System
 
