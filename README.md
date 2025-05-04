@@ -91,6 +91,8 @@ This runs all integration tests in main_test.go, covering AMF, CAP, ZKP, BFT, st
 
 ## 📘 Documentation
 For full architecture, theory, and benchmarks, see: docs/report.pdf
+📘 [Download Report (DOCX)](docs/report.docx)
+
 
 ## 📈 Performance Overview
 | Feature                 | Complexity |
